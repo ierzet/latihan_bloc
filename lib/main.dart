@@ -6,7 +6,7 @@ void main() => runApp(const MyApp());
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
   //input disini(option: 1-14)
-  final int option = 11;
+  final int option = 12;
 
   @override
   Widget build(BuildContext context) {
